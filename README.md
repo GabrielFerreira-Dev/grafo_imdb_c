@@ -1,0 +1,2 @@
+Comando para gerar a imagem "dot -Tpng input.dot -o output.png" (Rodar na pasta do Output)
+OBS: Deve-se instalar o DOT no site https://graphviz.org/download/ e selecionar para incluir no PATH do usuário 
